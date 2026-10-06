@@ -1,0 +1,16 @@
+{
+  "fields": {"masterBill":"OPLUSGN260917735","container":"OPLU3041722"},
+  "lines": {
+    "NB-T101": {"manufacturer":"SAIGON PHOENIX GARMENT JOINT STOCK COMPANY"},
+    "NB-H205": {"manufacturer":"SAIGON PHOENIX GARMENT JOINT STOCK COMPANY"},
+    "NB-C330": {"manufacturer":"SAIGON PHOENIX GARMENT JOINT STOCK COMPANY"},
+    "W-B220": {"manufacturer":"SAIGON PHOENIX GARMENT JOINT STOCK COMPANY"}
+  },
+  "notes": [
+    "These selections were visually transcribed from the original PDFs during development. They are not outputs claimed to come from automatic extraction.",
+    "House B/L master reference visibly reads OPLUSGN260917735; local OCR transposed digits. Confirm this with carrier/AMS.",
+    "Printed container OPLU3041728 is crossed out; handwritten replacement appears OPLU3041722. ISO 6346 check digit for OPLU304172 is 2, consistent with the handwriting. This supports a proposed correction, but carrier confirmation is still required.",
+    "Packing header identifies the Vietnam factory as SAIGON PHOENIX GARMENT JOINT STOCK COMPANY. Local OCR added stray characters. Samples have a separate Bangladesh manufacturer: SP Garments Dhaka Ltd., Plot 41, Gazipur, Bangladesh.",
+    "Invoice quantities and composition remain selected provisionally; quantity, composition, weights, pricing, assist apportionment, sample valuation and all filing metadata remain unresolved. No filing readiness is claimed."
+  ]
+}

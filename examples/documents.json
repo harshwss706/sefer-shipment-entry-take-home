@@ -1,0 +1,653 @@
+[
+  {
+    "kind": "invoice",
+    "fields": {
+      "invoiceNo": {
+        "value": "KBAS/NB/26-0912",
+        "page": 1,
+        "quote": "Invoice No.:   KBAS/NB/26-0912"
+      },
+      "currency": {
+        "value": "USD",
+        "page": 1,
+        "quote": "Currency:    USD"
+      },
+      "invoiceDate": {
+        "value": "12/09/2026",
+        "page": 1,
+        "quote": "Invoice Date:   12/09/2026   Payment Terms:    T/T 30 DAYS AFTER B/L DATE"
+      },
+      "purchaseOrder": {
+        "value": "NB-26-0918",
+        "page": 1,
+        "quote": "Buyer's P.O.:   NB-26-0918   Currency:    USD"
+      },
+      "incoterm": {
+        "value": "CIF TACOMA, WA (INCOTERMS 2020)",
+        "page": 1,
+        "quote": "Incoterms:    CIF TACOMA, WA (INCOTERMS 2020)"
+      },
+      "origin": {
+        "value": "VN",
+        "page": 1,
+        "quote": "Country of Origin:    VIETNAM"
+      },
+      "portLoading": {
+        "value": "CAT LAI, HO CHI MINH CITY, VN",
+        "page": 1,
+        "quote": "Port of Loading:   CAT LAI, HO CHI MINH CITY, VN   Country of Origin:    VIETNAM"
+      },
+      "exportCountry": {
+        "value": "VN",
+        "page": 1,
+        "quote": "Port of Loading:   CAT LAI, HO CHI MINH CITY, VN"
+      },
+      "portDischarge": {
+        "value": "TACOMA, WA, U.S.A.",
+        "page": 1,
+        "quote": "Port of Discharge:   TACOMA, WA, U.S.A.   Vessel / Voyage:    PACIFIC ARGOS / 041E"
+      },
+      "freight": {
+        "value": 3850,
+        "page": 2,
+        "quote": "Ocean Freight (Cat Lai - Tacoma):   3,850.00"
+      },
+      "insurance": {
+        "value": 185,
+        "page": 2,
+        "quote": "Marine Insurance Premium:   185.00"
+      },
+      "fobTotal": {
+        "value": 23235,
+        "page": 2,
+        "quote": "TOTAL FOB VALUE (Items 1 - 4):   23,235.00"
+      },
+      "invoiceTotal": {
+        "value": 27270,
+        "page": 2,
+        "quote": "TOTAL CIF TACOMA, WA (USD):   27,270.00"
+      },
+      "totalQuantity": {
+        "value": 5100,
+        "page": 2,
+        "quote": "Total Quantity: 5,100"
+      },
+      "packages": {
+        "value": 138,
+        "page": 2,
+        "quote": "Total Packages: 138 CARTONS"
+      },
+      "packageUnit": {
+        "value": "CTNS",
+        "page": 2,
+        "quote": "Total Packages: 138 CARTONS"
+      },
+      "vessel": {
+        "value": "PACIFIC ARGOS",
+        "page": 1,
+        "quote": "Vessel / Voyage:    PACIFIC ARGOS /"
+      },
+      "voyage": {
+        "value": "041E",
+        "page": 1,
+        "quote": "Vessel / Voyage:    PACIFIC ARGOS / 041E"
+      },
+      "exportDate": {
+        "value": "24-SEP-2026",
+        "page": 1,
+        "quote": "ETD / ETA:    24-SEP-2026 /"
+      },
+      "eta": {
+        "value": "14-OCT-2026",
+        "page": 1,
+        "quote": "ETD / ETA:    24-SEP-2026 / 14-OCT-2026"
+      },
+      "houseBill": {
+        "value": "BMLVHCM26090418",
+        "page": 1,
+        "quote": "B/L No.:   BMLVHCM26090418"
+      },
+      "seller": {
+        "value": "KOWLOON BAY APPAREL SOURCING LIMITED",
+        "page": 1,
+        "quote": "KOWLOON BAY APPAREL SOURCING LIMITED"
+      },
+      "buyer": {
+        "value": "NORTHBOUND OUTFITTERS, INC.",
+        "page": 1,
+        "quote": "NORTHBOUND OUTFITTERS, INC.     CASCADE FULFILLMENT PARTNERS LLC"
+      },
+      "shipTo": {
+        "value": "CASCADE FULFILLMENT PARTNERS LLC",
+        "page": 1,
+        "quote": "NORTHBOUND OUTFITTERS, INC.     CASCADE FULFILLMENT PARTNERS LLC"
+      }
+    },
+    "items": [
+      {
+        "style": {
+          "value": "NB-T101",
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "description": {
+          "value": "MEN'S CREW NECK SHORT SLEEVE T-SHIRT",
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "hsCode": {
+          "value": "6109.10",
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "quantity": {
+          "value": 2400,
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "unit": {
+          "value": "PCS",
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "unitPrice": {
+          "value": 2.85,
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "amount": {
+          "value": 6480,
+          "page": 1,
+          "quote": "1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00"
+        },
+        "composition": {
+          "value": "100% Cotton single jersey, 160 GSM, knitted",
+          "page": 1,
+          "quote": "100% Cotton single jersey, 160 GSM, knitted"
+        }
+      },
+      {
+        "style": {
+          "value": "NB-H205",
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "description": {
+          "value": "WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET",
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "hsCode": {
+          "value": "6110.20",
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "quantity": {
+          "value": 1200,
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "unit": {
+          "value": "PCS",
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "unitPrice": {
+          "value": 7.4,
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "amount": {
+          "value": 8880,
+          "page": 1,
+          "quote": "2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00"
+        },
+        "composition": {
+          "value": "60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted",
+          "page": 1,
+          "quote": "60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted"
+        }
+      },
+      {
+        "style": {
+          "value": "NB-C330",
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "description": {
+          "value": "MEN'S SLIM FIT CHINO TROUSERS",
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "hsCode": {
+          "value": "6203.42",
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "quantity": {
+          "value": 900,
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "unit": {
+          "value": "PCS",
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "unitPrice": {
+          "value": 6.95,
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "amount": {
+          "value": 6255,
+          "page": 1,
+          "quote": "3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00"
+        },
+        "composition": {
+          "value": "98% Cotton 2% Elastane stretch twill, 245 GSM, woven",
+          "page": 1,
+          "quote": "98% Cotton 2% Elastane stretch twill, 245 GSM, woven"
+        }
+      },
+      {
+        "style": {
+          "value": "W-B220",
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "description": {
+          "value": "WOMEN'S LONG SLEEVE BLOUSE, V-NECK",
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "hsCode": {
+          "value": "6206.40",
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "quantity": {
+          "value": 600,
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "unit": {
+          "value": "PCS",
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "unitPrice": {
+          "value": 2.1,
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "amount": {
+          "value": 1260,
+          "page": 2,
+          "quote": "4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00"
+        },
+        "composition": {
+          "value": "100% Polyester crepe de chine, woven",
+          "page": 2,
+          "quote": "100% Polyester crepe de chine, woven"
+        },
+        "assist": {
+          "value": 4180,
+          "page": 2,
+          "quote": "Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric\nP.O. NB-26-0918F, value USD 4,180.00"
+        }
+      },
+      {
+        "style": {
+          "value": "NB-P118S",
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "description": {
+          "value": "WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES",
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "hsCode": {
+          "value": "6106.10",
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "quantity": {
+          "value": 24,
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "unit": {
+          "value": "PCS",
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "unitPrice": {
+          "value": 1,
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "amount": {
+          "value": 24,
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        },
+        "composition": {
+          "value": "100% Cotton pique, knitted",
+          "page": 2,
+          "quote": "100% Cotton pique, knitted"
+        },
+        "origin": {
+          "value": "BD",
+          "page": 2,
+          "quote": "Origin: Bangladesh"
+        },
+        "customsValue": {
+          "value": 24,
+          "page": 2,
+          "quote": "5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)"
+        }
+      }
+    ],
+    "notes": [],
+    "id": "e4f5d61803cc5decc659cd9cfd88eedd0079d81f892ae1b0df643bc3f075d02e",
+    "name": "KBAS-NB-26-0912_Commercial_Invoice.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "KOWLOON BAY APPAREL SOURCING LIMITED\nKB    Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410   Fax: +852 2797 4411   Email: docs@kbapparel.com.hk   BR No. 61847203\nCOMMERCIAL INVOICE   Page 1 of 2\nSOLD TO / BILL TO:     SHIP TO / DELIVER TO:\nNORTHBOUND OUTFITTERS, INC.     CASCADE FULFILLMENT PARTNERS LLC\n2150 NW Raleigh Street, Suite 300     21820 76th Avenue South, Dock 4\nPortland, OR 97210, U.S.A.    Kent, WA 98032, U.S.A.\nAttn: Megan Holt, Sourcing Dept.    For account of: Northbound Outfitters, Inc.\nTel: +1 503 555 0148    Receiving: +1 253 555 0193\nInvoice No.:   KBAS/NB/26-0912   Incoterms:    CIF TACOMA, WA (INCOTERMS 2020)\nInvoice Date:   12/09/2026   Payment Terms:    T/T 30 DAYS AFTER B/L DATE\nBuyer's P.O.:   NB-26-0918   Currency:    USD\nPort of Loading:   CAT LAI, HO CHI MINH CITY, VN   Country of Origin:    VIETNAM\nPort of Discharge:   TACOMA, WA, U.S.A.   Vessel / Voyage:    PACIFIC ARGOS / 041E\nB/L No.:   BMLVHCM26090418   ETD / ETA:    24-SEP-2026 / 14-OCT-2026\nUnit Price    Amount\nNo.   Style No.   Description of Goods   HS Code   Quantity   Unit\nUSD    USD\n1   NB-T101   MEN'S CREW NECK SHORT SLEEVE T-SHIRT     6109.10   2,400   PCS   2.85   6,480.00\n100% Cotton single jersey, 160 GSM, knitted\nColours: Black / White / Heather Navy\nSize ratio S-M-L-XL-XXL : 1-3-3-2-1\n2   NB-H205   WOMEN'S PULLOVER HOODIE W/ KANGAROO POCKET     6110.20   1,200   PCS   7.40   8,880.00\n60% Cotton 40% Polyester brushed fleece, 280 GSM, knitted\nColours: Oatmeal / Sage\nSize ratio XS-S-M-L-XL : 1-2-3-3-3\n3   NB-C330   MEN'S SLIM FIT CHINO TROUSERS     6203.42   900   PCS   6.95   6,255.00\n98% Cotton 2% Elastane stretch twill, 245 GSM, woven\nColours: Khaki / Olive / Navy\nWaist 30-32-34-36-38 : 1-2-3-3-1\nContinued on page 2 ...   SUB-TOTAL CARRIED FORWARD (USD):   21,975.00\nKowloon Bay Apparel Sourcing Limited | Sourcing office for apparel & accessories | www.kbapparel.com.hk",
+        "method": "text"
+      },
+      {
+        "page": 2,
+        "text": "KOWLOON BAY APPAREL SOURCING LIMITED\nKB    Unit 1708, 17/F, Hing Fat Industrial Building, 223 Wai Yip Street, Kwun Tong, Kowloon, Hong Kong\nTel: +852 2797 4410   Fax: +852 2797 4411   Email: docs@kbapparel.com.hk   BR No. 61847203\nCOMMERCIAL INVOICE   Page 2 of 2\nInvoice No.: KBAS/NB/26-0912   Date: 12/09/2026   Buyer: NORTHBOUND OUTFITTERS, INC.   P.O.: NB-26-0918\nUnit Price    Amount\nNo.   Style No.   Description of Goods   HS Code   Quantity   Unit\nUSD    USD\nBROUGHT FORWARD:   21,975.00\n4   W-B220   WOMEN'S LONG SLEEVE BLOUSE, V-NECK     6206.40   600   PCS   2.10 *   1,260.00\n100% Polyester crepe de chine, woven\nColours: Ivory / Black\nSize ratio XS-S-M-L-XL : 1-2-3-3-1\nCMT price, see note (*)\n5   NB-P118S   WOMEN'S SHORT SLEEVE POLO SHIRT - SAMPLES     6106.10   24   PCS   (1.00)   (24.00)\n100% Cotton pique, knitted\nFOC SAMPLES - NO COMMERCIAL VALUE\nValue for customs purpose only USD 1.00/pc\n(Origin: Bangladesh)\nTotal Quantity: 5,100 PCS     TOTAL FOB VALUE (Items 1 - 4):   23,235.00\n(plus 24 PCS FOC samples, NCV)     Ocean Freight (Cat Lai - Tacoma):   3,850.00\nTotal Packages: 138 CARTONS    Marine Insurance Premium:   185.00\nShipping Marks: As per packing list     TOTAL CIF TACOMA, WA (USD):   27,270.00\nSAY US DOLLARS TWENTY SEVEN THOUSAND TWO HUNDRED AND SEVENTY ONLY.\nNOTES:\n(*) Style W-B220: Price is CMT (cut, make & trim) only. Main fabric (100% polyester crepe de chine, 1,450 m) supplied free of charge by buyer under buyer's fabric\nP.O. NB-26-0918F, value USD 4,180.00, not included in this invoice.\n(1) Goods manufactured and shipped by our contracted factory in Binh Duong, Vietnam. Factory packing list attached.\n(2) Item 5 samples are free of charge, not for resale, value stated for customs purpose only and not included in invoice total.\n(3) Insurance covered under open policy No. VHI/MC/2026/0331, Institute Cargo Clauses (A).\nFor and on behalf of\nDECLARATION:   We hereby certify that this invoice shows the actual price of the goods\nKOWLOON BAY APPAREL SOURCING LIMITED\ndescribed, that all particulars are true and correct, and that the goods are of   Vietnam   origin.    A P P\nA Y    A R\nB    E L\nN\nO    S\nO    O\nBANK DETAILS:    L    U\nW    R\nBeneficiary: Kowloon Bay Apparel Sourcing Limited    O  LIMITED    C\nK    I\n*  HONG KONG    N\nBank: Victoria Harbour Commercial Bank Ltd., Kwun Tong Branch     Raymond Chan    G\nA/C No.: 512-338907-001 (USD) SWIFT: VHCBHKHHXXX    *\nAuthorized Signature (Raymond Chan, Shipping Mgr.)\nKowloon Bay Apparel Sourcing Limited | Sourcing office for apparel & accessories | www.kbapparel.com.hk",
+        "method": "text"
+      }
+    ],
+    "engine": "rules",
+    "warnings": []
+  },
+  {
+    "kind": "packing",
+    "fields": {
+      "invoiceNo": {
+        "value": "KBAS/NB/26-0912",
+        "page": 1,
+        "quote": "Ref. Invoice: KBAS/NB/26-0912"
+      },
+      "purchaseOrder": {
+        "value": "NB-26-0918 Factory Order: SPG-0918",
+        "page": 1,
+        "quote": "Buyer P.O.: NB-26-0918 Factory Order: SPG-0918"
+      },
+      "grossWeight": {
+        "value": 1888,
+        "page": 1,
+        "quote": "TOTAL G.W.: 1,888.00"
+      },
+      "netWeight": {
+        "value": 1734.5,
+        "page": 1,
+        "quote": "TOTAL N.W.: 1,734.50"
+      },
+      "manufacturer": {
+        "value": "f SAIGON PHOENIX GARMENT JOINT STOCK COMPANY “i 18",
+        "page": 1,
+        "quote": "f SAIGON PHOENIX GARMENT JOINT STOCK COMPANY “i 18"
+      },
+      "manufacturerAddress": {
+        "value": "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam",
+        "page": 1,
+        "quote": "Lot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam | MST/Tax Code: 3702148865 | Tel: +84 274 3742 618 ¢"
+      }
+    },
+    "items": [
+      {
+        "style": {
+          "value": "NB-T101",
+          "page": 1,
+          "quote": "1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35"
+        },
+        "quantity": {
+          "value": 2400,
+          "page": 1,
+          "quote": "1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35"
+        },
+        "netWeight": {
+          "value": 432,
+          "page": 1,
+          "quote": "1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35"
+        },
+        "grossWeight": {
+          "value": 480,
+          "page": 1,
+          "quote": "1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35"
+        },
+        "cartons": {
+          "value": 48,
+          "page": 1,
+          "quote": "1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35"
+        },
+        "composition": {
+          "value": "100% COTTON JERSEY 160GSM",
+          "page": 1,
+          "quote": "; 100% COTTON JERSEY 160GSM = M3 L3 XL2 XXL1 (x5 per size run) ."
+        }
+      },
+      {
+        "style": {
+          "value": "NB-H205",
+          "page": 1,
+          "quote": "© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |"
+        },
+        "quantity": {
+          "value": 1176,
+          "page": 1,
+          "quote": "© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |"
+        },
+        "netWeight": {
+          "value": 715.4,
+          "page": 1,
+          "quote": "© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |"
+        },
+        "grossWeight": {
+          "value": 774.2,
+          "page": 1,
+          "quote": "© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |"
+        },
+        "cartons": {
+          "value": 49,
+          "page": 1,
+          "quote": "© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |"
+        },
+        "composition": {
+          "value": "in 65/35 FLEECE 280GSM",
+          "page": 1,
+          "quote": "in 65/35 FLEECE 280GSM XS2 S4 M6 L6 XL6 2 : 4"
+        }
+      },
+      {
+        "style": {
+          "value": "NB-C330",
+          "page": 1,
+          "quote": "98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |"
+        },
+        "quantity": {
+          "value": 900,
+          "page": 1,
+          "quote": "98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |"
+        },
+        "netWeight": {
+          "value": 486,
+          "page": 1,
+          "quote": "98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |"
+        },
+        "grossWeight": {
+          "value": 522,
+          "page": 1,
+          "quote": "98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |"
+        },
+        "cartons": {
+          "value": 30,
+          "page": 1,
+          "quote": "98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |"
+        },
+        "composition": {
+          "value": "98/2 COTTON/SPANDEX TWILL <",
+          "page": 1,
+          "quote": "98/2 COTTON/SPANDEX TWILL < W30-3 W32-6 W34-9 W36-9 W38-3 bine] : i"
+        }
+      },
+      {
+        "style": {
+          "value": "W-B220",
+          "page": 1,
+          "quote": "| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30"
+        },
+        "quantity": {
+          "value": 600,
+          "page": 1,
+          "quote": "| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30"
+        },
+        "netWeight": {
+          "value": 96,
+          "page": 1,
+          "quote": "| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30"
+        },
+        "grossWeight": {
+          "value": 106,
+          "page": 1,
+          "quote": "| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30"
+        },
+        "cartons": {
+          "value": 10,
+          "page": 1,
+          "quote": "| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30"
+        },
+        "composition": {
+          "value": "100% POLY CREPE (BUYER FABRIC)",
+          "page": 1,
+          "quote": "| 100% POLY CREPE (BUYER FABRIC) XS6 S12 M18 L18 XL6 ] |"
+        }
+      },
+      {
+        "style": {
+          "value": "NB-P118S",
+          "page": 1,
+          "quote": "138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30"
+        },
+        "quantity": {
+          "value": 24,
+          "page": 1,
+          "quote": "138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30"
+        },
+        "netWeight": {
+          "value": 5.1,
+          "page": 1,
+          "quote": "138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30"
+        },
+        "grossWeight": {
+          "value": 5.8,
+          "page": 1,
+          "quote": "138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30"
+        },
+        "cartons": {
+          "value": 1,
+          "page": 1,
+          "quote": "138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30"
+        },
+        "composition": {
+          "value": "100% COTTON PIQUE",
+          "page": 1,
+          "quote": "| 100% COTTON PIQUE 1 PC PER COLOUR/SIZE ** . = 20"
+        },
+        "manufacturer": {
+          "value": "SP Garments Dhaka Ltd.",
+          "page": 1,
+          "quote": "SP Garments / ca a\nCOLOUR / SIZE: Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh"
+        },
+        "manufacturerAddress": {
+          "value": "Plot 41, Gazipur, Bangladesh",
+          "page": 1,
+          "quote": "SP Garments / ca a\nCOLOUR / SIZE: Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh"
+        },
+        "origin": {
+          "value": "BD",
+          "page": 1,
+          "quote": "SP Garments / ca a\nCOLOUR / SIZE: Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh"
+        }
+      }
+    ],
+    "notes": [],
+    "id": "c3dfccbc81ba6905766fd53f2778eae75d9389cf52dae49e7b946eb808111f53",
+    "name": "SPG-PL-2609-117_Packing_List.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "2 2 3s * g a y ¢ 2\nCONG TY CO PHAN MAY SAI GON PHUONG HOANG hr\nf SAIGON PHOENIX GARMENT JOINT STOCK COMPANY “i 18\nL6 C7-C8, Dudng $6 9, KCN S6ng Than 2, P. Di An, TP. Di An, Tinh Binh Duong, Viét.Nam 3\nLot C7-C8, Road No. 9, Song Than 2 Industrial Park, Di An Ward, Di An City, Binh Duong Province, Vietnam | MST/Tax Code: 3702148865 | Tel: +84 274 3742 618 ¢\nSHIPPER / EXPORTER: CONSIGNEE / BUYER: ) ; REFERENCES: 5 |\n* SAIGON: PHOENIX GARMENT JSC $ : NORTHBOUND OUTFITTERS, INC. | P/L No.: SPG-PL-2609-117 Date: 20-Sep-2026\n* | on behalf of KOWLOON BAY APPAREL SOURCING LTD. 2150 NW Raleigh St., Suite 300, Portland, OR 97210, USA Ref. Invoice: KBAS/NB/26-0912 .\nUnit 1708, 17/F, Hing Fat Ind. Bldg., 223 Wai Yip St., Deliver to: Cascade Fulfillment Partners LLC, Buyer P.O.: NB-26-0918 Factory Order: SPG-0918\nKwun Tong, Kowloon, Hong Kong ; 21820 76th Ave S, Kent, WA 98032, USA | Vessel: PACIFIC ARGOS 041E Cntr: 1 x 20'GP\n| : || From: CAT LAI, HCMC To: TACOMA, WA\nPEER : i : = = Pcs/ | Total | NW./Ctn | G.W./Ctn | Total N.W. | Total GW. | Ctn Meas.\nEe Be EE ce OAS Amcor aes Kad 28 tim pd Ed a)\nA = iii} LAR tn, HE | pre Est -\n1-48 NB-T101 | MEN'S CREW NECK S/S TEE BLACK / WHITE / HTHR NAVY 48 | 50 | 2,400 9.00 10.00 432.00 480.00 60x40x35\n; 100% COTTON JERSEY 160GSM = M3 L3 XL2 XXL1 (x5 per size run) .\n. = eel ny! ed TE] NES 2 alls [2 ==She oy Pe | J Lado #4 = Se Ja cpa TE AT\n© 49-97 | NB-H205 | LADIES PULLOVER HOODIE OATMEAL / SAGE a9 240 1176 14.60 15.80 715.40 774.20] 60xa5x45 |\nin 65/35 FLEECE 280GSM XS2 S4 M6 L6 XL6 2 : 4\nDEE SN EA CR Mg ie STE dT ed Se [d ESE | [4 Se h o =  SRAC\n98-127 | NB-C330 1 MEN'S SLIM CHINO PANT > . || KHAKI / OLIVE / NAVY 30 30 900 16.20 17.40 486.00 | © 522.00 60x40x40 |\n98/2 COTTON/SPANDEX TWILL < W30-3 W32-6 W34-9 W36-9 W38-3 bine] : i\nedo, 100 Ben CMO Eh SH TPE ERR A I ERIE So OH] . Serv) lei Sn es ea)\n| 128-137 | W-B220 | LADIES LS V-NECK BLOUSE IVORY / BLACK | 10] 60 600 9.60 10.60 | 96.00 106.00 55x40x30\n| 100% POLY CREPE (BUYER FABRIC) XS6 S12 M18 L18 XL6 ] |\n138 | NB-P118S | LADIES POLO - SAMPLES (FOC) ASSORTED . i 1 24 24 5.10 5.80 5.10 5.80 50x35x30\n| 100% COTTON PIQUE 1 PC PER COLOUR/SIZE ** . = 20\n| GRAND TOTAL Po AIS 3 A 138 5,100 D Ea 1,734.50 1,888.00 13.58 CBM\nSAY TOTAL: ONE HUNDRED THIRTY EIGHT (138) CARTONS ONLY. TOTAL N.W.: 1,734.50 KGS TOTAL G.W.: 1,888.00 KGS TOTAL MEAS.: 13.58 CBM  . _ ’\nSHIPPING MARKS: REMARKS: TAA. SAIGON PHOENIX GARMENT JSC\n| NORTHBOUND OUTFITTERS 1. All cartons 5-ply export cartons, strapped, palletized: NO. [oc Shipping Dept: :\nPO#: NB-26-0918 A 1 2. Style W-B220 sewn from buyer-supplied fabric (Ref. NB-26-0918F). . | =\nSTYLE#: | 3. ** Carton No. 138: FOC samples (ladies polo NB-P118S) produced at our sister unit SP Garments / ca a\nCOLOUR / SIZE: Dhaka Ltd., Plot 41, Gazipur, Bangladesh. Made in Bangladesh. Hand-carried to Cat Lai CFS for en \\J. Hon 3\nQTY: PCS . | consolidation. ! \\& 00 © i\nC/NO.: 1-138 * 4. Seal no. per B/L. == ee X\n| MADE IN VIETNAM g i Nguyén Thi Lan - Trudng PREG JNK ort Manager\n",
+        "method": "ocr"
+      }
+    ],
+    "engine": "rules",
+    "warnings": []
+  },
+  {
+    "kind": "bill",
+    "fields": {
+      "portLoading": {
+        "value": "x",
+        "page": 1,
+        "quote": "Port of Loading x"
+      },
+      "portDischarge": {
+        "value": ". . 3 Place of Delivery A Final Destination (for merchant ref.) Type of Move -",
+        "page": 1,
+        "quote": "Port of Discharge . . 3 Place of Delivery A Final Destination (for merchant ref.) Type of Move -"
+      },
+      "masterBill": {
+        "value": "OPLUSGN2606917735",
+        "page": 1,
+        "quote": "MBL: OPLUSGN2606917735"
+      },
+      "masterScac": {
+        "value": "OPLU",
+        "page": 1,
+        "quote": "CARRIER: ORIENT PACIFIC LINES (OPLU)"
+      },
+      "houseScac": {
+        "value": "BMLV",
+        "page": 1,
+        "quote": "SCAC: BMLV"
+      },
+      "houseBill": {
+        "value": "BMLVHCM26090418",
+        "page": 1,
+        "quote": "$ BMLVHCM26090418"
+      },
+      "grossWeight": {
+        "value": 1930,
+        "page": 1,
+        "quote": "BREU304IT28— 138 | 1X 20°GP CONTAINER S.T.C.: ° : 1,930.000 13.580\nOPA 304172 2 CARTONS 138 CARTONS OF 3 KGS"
+      },
+      "seal": {
+        "value": "OPL7731482",
+        "page": 1,
+        "quote": "SEAL: OPL7731482"
+      }
+    },
+    "items": [],
+    "notes": [],
+    "id": "65e8d6443ae9c17c4ca41b96525b676de68c8980cde3ad20d06c6847d5d3a756",
+    "name": "BMLVHCM26090418_House_BL.pdf",
+    "pages": [
+      {
+        "page": 1,
+        "text": "SAIGON PHOENIX GARMENT JSC - COMBINED TRANSPORT OR PORT TO PORT\nLOT C7-C8, ROAD NO. 9, SONG THAN 2 IP -| BLUE MERIDIAN\nDI AN CITY, BINH DUONG, VIETNAM : 3 LOGISTICS (VIETNAM) CO., LTD. 3 :\n0/B KOWLOON BAY APPAREL SOURCING LTD 12 Nguyen Hue Bivd, District 1, Ho Chi Minh City, Vietnam »\nKWUN TONG, KOWLOON, HONG KONG FMC NVOCC No. 029415N  SCAC: BMLV\n$ BMLVHCM26090418 BMLHCM2609-0377\nConsignee (complete name and address) 3 = : Export References. k x\nCASCADE FULFILLMENT PARTNERS LLC . INV KBAS/NB/26-0912 PO NB-26-0918\n21820 25 Swe sons, DOCK 4 ARE reer oe tor -\nbn 2 : 53 555 0193 ° MBL: OPLUSGN2606917735 z\nRECEIVING: (TEL: 91.299. 555.9 =) CARRIER: ORIENT PACIFIC LINES (OPLU)\nLEX RELEA AT ORIG Point and Counjry of Origin of Goods Fre ”\nTE onnERED ALT | reriam ; : .\n¥ OR YJ iE\nhe WT NALS 2026 amLHC Domestic Routing / Export Instructions )\nitl A Ao (a SRN TE DOOR DELIVERY VIA TACOMA RAMP/TRUCK\n00 WN RALBIGH ST. 5 306 TO CONSIGNEE WAREHOUSE KENT WA\nPORTLAND, OR 97210,\nTEL: +1 503 555 0148 ATTN: M. HOLT .\nALSO NOTIFY: CUSTOMS BROKER (TBA) > 5\nPre-carriage by * Place of Receipt Ocean Vessel / Voy. No. Port of Loading x\nTRUCK ; SONG THAN, BINH DUONG PACIFIC ARGOS 041E CAT LAI, HCMC, WN\nPort of Discharge . . 3 Place of Delivery A Final Destination (for merchant ref.) Type of Move -\nTACOMA, WA, USA KENT, WA (DODR) KENT, WA, USA : CFS / DOOR\nPARTICULARS FURNISHED BY SHIPPER - CARRIER NOT RESPONSIBLE\nConan [Wo in| Ovni Goren BC\nBREU304IT28— 138 | 1X 20°GP CONTAINER S.T.C.: ° : 1,930.000 13.580\nOPA 304172 2 CARTONS 138 CARTONS OF 3 KGS © | cM .\nWEARING APPAREL - MEN'S AND\nSEAL: OPL7731482 [IER LADIES’ KNIT AND WOVEN GARMENTS\n1X 20°GP (T-SHIRTS, HOODIES, TROUSERS,\nf | BLOUSES, POLO SAMPLES) : i\nOUTFITTERS HS: 6109.10 / 6110.20 / 6203.42 | * Y\nPO#: NB-26-0918 6206.40 / 6106.10 iam || 3 :\nC/NO.: 1-138 : INV NO.: KBAS/NB/26-0912 .\nMADE IN VIETNAM Sp PO NO.: NB-26-0918 . )\nattr SHIPPER'S LOAD, STOW AND COUNT ;\n| | CY/CFS - FREIGHT PREPAID 2\n. AMS FILED BY: BLUE MERIDIAN - £5\nott ISF FILED BY: IMPORTER/AGENT\ni & . SHIPPED ON BOARD\n3 : DATE: 24 SEP 2006 ; |\nJ+ CAT LAI, HC, IC ru $ »\nTOTAL: ONE HUNDRED RRRILEIGHT 158) CAHYORS OREVGOS\nFreight & Charges ’ = N y [Number of Original Bs x Z 1\nOCEAN FREIGHT PREPAID ; THREE (3) :\nTHC ORIGIN PREPAID Place and Date of Issue :\nDESTINATION CHGS COLLECT SEP. .\nAS HO CHI MINH CITY, 24-SEP-2026\n. Freight Payable at\nby ORIGIN y\nRECEIVED by the Carrier the Goods as specitied above in apparent good order and condition uniess Signed for and on behalf of the Carrier 3\nothorwise stated: 10 be transported 10 such place as agreed. authorized or permitted herein and subject BLUE MERIDIAN LOGISTICS (VIETNAM) CO., LTD.\nEE a A a a as agent for the G -0 P Unes\nstated above have been signed. one of which being accomplished the other(s) 1o be void. IN =\n: : Tran Mink Khoa\nAuthorized Signatory : .\n: |\n- ORIGINAL - NON NEGOTIABLE COPY | BMLHBL Rev, 032024 | Page 1a! | 4 |\n«3\n",
+        "method": "ocr"
+      }
+    ],
+    "engine": "rules",
+    "warnings": []
+  }
+]
