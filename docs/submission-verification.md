@@ -12,6 +12,6 @@
 
 ## Remaining submission steps and limits
 
-The local repository has no GitHub remote. GitHub creation/push remains pending approval of the exact private destination and inclusion of shipment-derived data and visible chat history. No deployed URL exists; deployment is optional for the assignment. Actual NetCHB upload/CBP acceptance, Docker execution, and the live AI extraction provider have not been tested. Unknown layouts have conservative fallback behavior; arbitrary unseen shipment extraction accuracy is not established by the synthetic regression case.
+The final submission was published, with explicit user authorization, to the private GitHub repository https://github.com/harshwss706/sefer-shipment-entry-take-home on 2026-10-07. Reviewers need repository access. No deployed URL exists; deployment is optional for the assignment. Actual NetCHB upload/CBP acceptance, Docker execution, and the live AI extraction provider have not been tested. Unknown layouts have conservative fallback behavior; arbitrary unseen shipment extraction accuracy is not established by the synthetic regression case.
 
 The supplied XML is deliberately an incomplete draft: required broker header fields and other filing data are absent from the supplied documents. The README and review report explain the missing information rather than inventing it. The chat history is a snapshot through its export timestamp; refresh it after further task work before final submission.
